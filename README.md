@@ -20,8 +20,8 @@ Basically, the data is studied to find out the hour-wise,month-wise and year-wis
 3. Draw a Bar graph to show the hourly average pollution.
 4. Usually in which month/s, the air was recorded 'Very Unhealthy'?
 5. Usually in which month/s, the air was fresh(good)?
-6. In year 2018, how many times the AQI was recorded 'Moderate'?
-7. How was the weather in the month of January and July?
+6. In year 2018, how many times the AQI was recorded as 'Moderate'?
+7. How was the weather in the months of January and July?
 
 ## Results
 
