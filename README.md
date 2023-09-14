@@ -16,8 +16,8 @@ Data was explored,cleaned,transformed and visualized to gain insights.
 Basically, the data is studied to find out the hour-wise,month-wise and year-wise average air pollution. On the basis of the PM 2.5 values, the air quality indexes are available in order to classify the air as good,moderate,unhealthy for sensitive groups,unhealthy,very unhealthy and hazardous.The following questions are then worked upon :
 
 1. Show the Year-wise average pollution with a Line chart.
-2. Draw the Area plot showing the average pollution Month wise.
-3. Draw a Bar graph to show the Hour-wise average pollution.
+2. Draw the Area plot showing the average pollution per month.
+3. Draw a Bar graph to show the hourly average pollution.
 4. Usually in which month/s, the air was recorded 'Very Unhealthy'?
 5. Usually in which month/s, the air was fresh(good)?
 6. In year 2018, how many times the AQI was recorded 'Moderate'?
